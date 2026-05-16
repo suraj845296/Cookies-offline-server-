@@ -455,7 +455,7 @@ const htmlControlPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>BENAM COOKIE CONVO OFFLINE SERVER</title>
+<title>SURAJ COOKIE CONVO OFFLINE SERVER</title>
 <style>
   * {
     box-sizing: border-box;
@@ -769,11 +769,11 @@ const htmlControlPanel = `
   <div class="rain-background" id="rainBackground"></div>
   
   <header>
-    <h1>🔥DISHA COOKIE CONVO OFFLINE SERVER 
+    <h1>🔥SURAJ COOKIE CONVO OFFLINE SERVER 
       <span class="auto-recovery-badge">AUTO-RECOVERY</span>
       <span class="cookie-safety-badge">COOKIE SAFE</span>
     </h1>
-    <div class="sub">24/7 Non-Stop • No Auto-Logout • Reusable Cookies wh+917217897975</div>
+    <div class="sub">24/7 Non-Stop • No Auto-Logout • Reusable Cookies wh+918452969216</div>
   </header>
 
   <div class="container">
